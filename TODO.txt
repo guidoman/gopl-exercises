@@ -11,5 +11,6 @@
 1.11 TODO
 1.12 OK
 
-2.1 pag 42 TODO
+2.1 pag 42 OK ~
+2.1 pag 44 TODO
 
